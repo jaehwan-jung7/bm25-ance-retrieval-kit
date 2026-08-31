@@ -86,5 +86,4 @@ python src/evaluate.py --run_path output/bm25_run.tsv --qrels_path data/qrels_DL
 Reports nDCG@10, MAP@100, Recall@100, and MRR.
 
 ## Acknowledgement
-This repository was developed with support from the **데이터사이언스 융합인재양성사업단**
-(Data Science-based Convergent Talent Education Program) - http://dsplus.uos.ac.kr/
+This repository was developed with support from the **서울시립대학교 데이터 사이언스 플러스 차세대 융합인재 양성사업단** - http://dsplus.uos.ac.kr/
