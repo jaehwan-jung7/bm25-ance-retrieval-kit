@@ -1,7 +1,6 @@
-pyserini==0.20.0
+pyserini>=1.2.0
 faiss-cpu
-sentence_transformers>=2.6.0
-transformers>=4.40.0
+sentence_transformers>=5.0.0
 pytrec_eval
 tqdm
 numpy
