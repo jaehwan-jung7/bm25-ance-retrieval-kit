@@ -1,0 +1,7 @@
+pyserini==0.20.0
+faiss-cpu
+sentence_transformers>=2.6.0
+transformers>=4.40.0
+pytrec_eval
+tqdm
+numpy
